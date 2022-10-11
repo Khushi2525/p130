@@ -1,0 +1,25 @@
+body{
+    background-image: url("music.webp");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.heading{
+    width: 98%;
+    padding: 5px;
+    box-shadow: 5px 5px 30px deeppink;
+    border-radius: 20px;
+    margin-top: 5px;
+}
+
+#song{
+    font-size: 15px;
+}
+
+canvas{
+    background-color: white;
+    border: 5px solid white;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px skyblue;
+}
